@@ -2,7 +2,7 @@
 # I'm Victor Dias Pereira, 20y
 * 💻 I’m currently not working, but looking for
 * 🌱 I’m currently learning Kotlin and Android
-* 🎒 Main Tools: Visual Studio, SQL Server Management Studio, Android Studio.
+* 🎒 Main Tools: Visual Studio, SQL Server Management Studio, Android Studio, InteliJ.
 * 😄 Pronouns: he/his/him (ele/dele)
 * ⚡ Fun fact: player for League of Legends(LOL) and TFT(TeamFight Tactics)
 * 📟 Email for contact: contato.victordiaspereira@gmail.com
