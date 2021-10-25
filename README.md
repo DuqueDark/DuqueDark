@@ -7,7 +7,7 @@
 * ⚡ Fun fact: player for League of Legends(LOL) and TFT(TeamFight Tactics)
 * 📟 Email for contact: contato.victordiaspereira@gmail.com
 <div align="center">
-  <a href="https://github.com/vdias25">
+  <a href="https://github.com/DuqueDark">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vdias25&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdias25&layout=compact&langs_count=7&theme=prussian"/>
 </div>
