@@ -1,8 +1,8 @@
 ## Hi there 👋
 # I'm Victor Dias Pereira, 20y
 * 💻 I’m currently not working, but looking for
-* 🌱 I’m currently learning Kotlin and Android
-* 🎒 Main Tools: Visual Studio, SQL Server Management Studio, Android Studio, InteliJ.
+* 🌱 I’m currently learning Flutter <img align="center" alt="flutter-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+* 🎒 Main Tools: Visual Studio Code <img align="center" alt="flutter-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 * 😄 Pronouns: he/his/him (ele/dele)
 * ⚡ Fun fact: player for League of Legends(LOL) and TFT(TeamFight Tactics)
 * 📟 Email for contact: contato.victordiaspereira@gmail.com
